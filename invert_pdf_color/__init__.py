@@ -1,0 +1,1 @@
+from invert_color_pdf.invert import invert_color
