@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 
-setup(name='pandas_dedupe',
+setup(name='invert_pdf_color',
       version='1.0.0',
       description='A package for easily inverting the color of pdf documents',
       url='https://github.com/Lyonk71/invert-pdf-color',
